@@ -33,7 +33,7 @@ const Testimonial = () => {
                         <div className="flex items-center gap-[13px]">
                             <img src={patientAvatar} alt="" />
                             <div>
-                                <h4 className="text-[18px] leading-[30px] font-semibold">Muhibur Rahman</h4>
+                                <h4 className="text-[18px] leading-[30px] font-semibold">Rehan Khan</h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -51,7 +51,7 @@ const Testimonial = () => {
                         <div className="flex items-center gap-[13px]">
                             <img src={patientAvatar} alt="" />
                             <div>
-                                <h4 className="text-[18px] leading-[30px] font-semibold">Muhibur Rahman</h4>
+                                <h4 className="text-[18px] leading-[30px] font-semibold">Rehan Khan</h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -69,7 +69,7 @@ const Testimonial = () => {
                         <div className="flex items-center gap-[13px]">
                             <img src={patientAvatar} alt="" />
                             <div>
-                                <h4 className="text-[18px] leading-[30px] font-semibold">Muhibur Rahman</h4>
+                                <h4 className="text-[18px] leading-[30px] font-semibold">Rehan Khan</h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -87,7 +87,7 @@ const Testimonial = () => {
                         <div className="flex items-center gap-[13px]">
                             <img src={patientAvatar} alt="" />
                             <div>
-                                <h4 className="text-[18px] leading-[30px] font-semibold">Muhibur Rahman</h4>
+                                <h4 className="text-[18px] leading-[30px] font-semibold">Rehan Khan</h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
